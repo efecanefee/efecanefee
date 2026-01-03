@@ -35,13 +35,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/lazynawoweg5atybrx7jn7df1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lazynawoweg5atybrx7jn7df1&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
