@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning  AI Security, LLM Security, C# form and Sql lite<br>🎯 Goals: Becoming a Cybersecurity Specialist & Securing the digital world<br>🎲 Fun fact: My code works on my machine, so the problem is clearly yours!</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning  AI Security, LLM Security, C# form and SQL <br>🎯 Goals: Becoming a Cybersecurity Specialist & Securing the digital world<br>🎲 Fun fact: My code works on my machine, so the problem is clearly yours!</p>
 
 ###
 
